@@ -7,7 +7,7 @@
 
 ## 获取及提交Lab
 
-**获取**：通过 `https://github.com/fdu-20ss-programming-A/lab11或者`超星平台`获取。
+**获取**：通过 `https://github.com/fdu-20ss-programming-A/lab11`或者`超星平台`获取。
 
 **提交**：超星平台上已经发布了LAB11作业，同学需要将每题的**代码**、**运行结果**、个人对题目的思考体会（可选）以**图片**或者**文档**（ word 或者 pdf ）的形式在超星LAB11对应的作业区域提交即可。
 
